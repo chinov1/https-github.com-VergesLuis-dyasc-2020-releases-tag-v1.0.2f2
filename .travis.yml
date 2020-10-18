@@ -1,3 +1,3 @@
 language: java
 
-script: "cd ./Fibo2 && mvn package && mvn clean test"
+script: "cd ./.idea/libraries/ && mvn package && mvn clean test"
