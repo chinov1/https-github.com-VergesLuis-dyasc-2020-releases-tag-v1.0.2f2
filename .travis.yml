@@ -1,1 +1,3 @@
+language: java
 
+script: "cd ./Fibo2 && mvn package && mvn clean test"
