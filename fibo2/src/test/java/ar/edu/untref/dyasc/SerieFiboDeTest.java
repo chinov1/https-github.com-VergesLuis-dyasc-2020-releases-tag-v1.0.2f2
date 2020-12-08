@@ -12,7 +12,7 @@ public class SerieFiboDeTest {
 
         String cadena = clase.getSubserie(5);
 
-        assertThat(cadena).isEqualTo("0 1 1 2 3");
+        assertThat(cadena).isEqualTo("0 1 5 2 3");
         
         
     }
